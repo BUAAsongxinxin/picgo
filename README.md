@@ -1,0 +1,2 @@
+# picgo
+using for Typora
